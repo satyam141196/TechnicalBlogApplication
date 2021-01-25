@@ -7,7 +7,6 @@ import org.springframework.context.annotation.ComponentScan;
 import technicalblog.controller.HomeController;
 
 @SpringBootApplication
-@ComponentScan
 public class TechnicalBlogApplication {
 
     public static void main(String [] args){
