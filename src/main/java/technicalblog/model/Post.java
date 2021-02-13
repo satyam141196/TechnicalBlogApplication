@@ -4,8 +4,16 @@ import java.util.Date;
 
 public class Post {
 
+
+    private Integer id;
+
+
     private String title;
+
+
     private String body;
+
+
     private Date date;
 
     public String getTitle() {
